@@ -2,7 +2,7 @@
 ## Sensores y Actuadores
 ## Presentación en diapositivas / mapa mental / 
 ### Sergio Francisco Hernández Machuca
-###Hernández Reyes Roberto Saúl
+### Hernández Reyes Roberto Saúl
 
 En esta sección se encuentra lo relacionado con Sensores:
 1. Definición
