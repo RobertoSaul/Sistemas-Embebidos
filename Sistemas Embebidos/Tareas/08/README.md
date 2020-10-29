@@ -1,4 +1,4 @@
-# Tarea Número 07
+# Tarea Número 08
 ## Sensores y Actuadores
 ## Presentación en diapositivas / mapa mental / 
 ### Sergio Francisco Hernández Machuca
