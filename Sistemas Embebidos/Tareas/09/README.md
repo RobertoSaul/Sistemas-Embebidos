@@ -1,5 +1,5 @@
 # Tarea Número 09
-## Sistema Operativo En tiempo Real
+## Sistema de Tiempo Real
 ## Presentación en diapositivas / mapa mental / 
 ### Sergio Francisco Hernández Machuca
 ### Hernández Reyes Roberto Saúl
