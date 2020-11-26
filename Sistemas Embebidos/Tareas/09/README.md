@@ -1,5 +1,5 @@
 # Tarea Número 09
-## Sensores y Actuadores
+## Sistema Operativo En tiempo Real
 ## Presentación en diapositivas / mapa mental / 
 ### Sergio Francisco Hernández Machuca
 ### Hernández Reyes Roberto Saúl
