@@ -1,3 +1,0 @@
-Devido al enorme peso del video emos colocado nuestro
-trabajo con blink en la siguiente liga:
-https://youtu.be/NyMybBefngs
